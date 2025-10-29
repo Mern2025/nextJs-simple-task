@@ -91,8 +91,8 @@ const Navbar = () => {
               </Link>
             </li>
             <li>
-              <Link href="/projects" className="hover:text-yellow-300 transition">
-                Project
+              <Link href="/products" className="hover:text-yellow-300 transition">
+                Products
               </Link>
             </li>
             <li>
